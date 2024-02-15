@@ -1,7 +1,5 @@
 # doctoral-research-tracking
-# Project Name
 
-A brief description of your project goes here.
 
 ## Introduction
 
